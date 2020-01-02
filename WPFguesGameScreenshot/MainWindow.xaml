@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPFguesGameScreenshot"
         mc:Ignorable="d"
-         Title="Угадай игру по скриншоту" MinHeight="758" MaxHeight="758" MinWidth="709" MaxWidth="709" Background="#eeeeee" Loaded="Window_Loaded">
+         Title="Угадай игру по скриншоту)" MinHeight="758" MaxHeight="758" MinWidth="709" MaxWidth="709" Background="#eeeeee" Loaded="Window_Loaded">
     <Grid Margin="10,10,0,10" HorizontalAlignment="Left" Width="675">
         <Grid.RowDefinitions>
             <RowDefinition Height="*" />
